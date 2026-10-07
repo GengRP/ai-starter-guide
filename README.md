@@ -36,4 +36,12 @@ Public learning notes from an AI enthusiast: a step-by-step, hands-on guide for 
 
 ---
 
-更新动态 / 更新情報：X [@SuperKOUHEI001](https://x.com/SuperKOUHEI001)
+更新动态 / 更新情報：X [@SuperKOUHEi001](https://x.com/SuperKOUHEi001)
+
+## License
+
+[![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+本指南采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可：欢迎转载和改编，但需注明出处，且不得用于商业用途。
+本ガイドは CC BY-NC 4.0 で公開しています（表示・非営利）。
+Licensed under CC BY-NC 4.0: share and adapt with attribution, non-commercial use only.
