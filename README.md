@@ -36,6 +36,8 @@ Public learning notes from an AI enthusiast: a step-by-step, hands-on guide for 
 
 ---
 
+📰 每日 AI 日报 / AIデイリー：https://gengrp.github.io/ai-daily/
+
 更新动态 / 更新情報：X [@SuperKOUHEi001](https://x.com/SuperKOUHEi001)
 
 ## License
